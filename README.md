@@ -1,0 +1,1 @@
+Mentorship applications provide a platform for learners and professionals to connect. By providing mentors with a space to share their wealth of expertise and insights accumulated through years of practice and research, application can change the way learning occurs. 
