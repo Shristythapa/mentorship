@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729788633948",
+    "project_id": "mentorship-4beec",
+    "storage_bucket": "mentorship-4beec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729788633948:android:2489ac80b9571dba78a799",
+        "android_client_info": {
+          "package_name": "com.shristy.mentorship.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJndXX854ZPUYisATDEolqWW7mYw7rlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
